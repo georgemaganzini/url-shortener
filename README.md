@@ -1,3 +1,3 @@
 ### url-shortener
 
-Simple URL shortener using Node.js/Express/MongoDB
+Simple API for shortening URLs using Node.js/Express/MongoDB
